@@ -1,10 +1,8 @@
-# Ovrlord
+# Ovrlord - coming soon...
 
 <p align="center">
   <b>🍿 Ovrlord is the ultimate monolithic personal media library management solution</b>
 </p>
-
-** COMING SOON **
 
 ## Features
 
