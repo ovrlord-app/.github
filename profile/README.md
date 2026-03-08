@@ -1,8 +1,8 @@
 # Ovrlord - coming soon...
 
-<p align="center">
-  <b>🍿 Ovrlord is the ultimate monolithic personal media library management solution</b>
-</p>
+🍿Ovrlord is a monolithic personal media library system that manages collections of digital media assets such as **Movies** and **TV Series**.
+
+The system must support multiple libraries, flexible storage configurations, quality evaluation, and full traceability from request to acquired media.
 
 ## Features
 
