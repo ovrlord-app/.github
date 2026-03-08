@@ -38,3 +38,4 @@ The goal is not to replace the *Arr ecosystem overnight, but to offer a simpler,
 - **Language**: [Go](https://go.dev/)
 - **Database**: [PostgreSQL](https://www.postgresql.org/)
 - **External APIs**: [TMDB](https://developer.themoviedb.org/) integration
+- **Frontend**: [React](https://react.dev) with [Typescript](https://www.typescriptlang.org/)
